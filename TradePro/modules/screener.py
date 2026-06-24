@@ -23,7 +23,7 @@ def show_screener():
 
     tickers = st.text_area(
         "Ticker List",
-        "AAPL,NVDA,MSFT,GOOGL,BBCA.JK,TLKM.JK"
+        "AAPL,NVDA,MSFT,GOOGL,BBCA.JK,TLKM.JK,BBRI.JK,BMRI.JK,ASII.JK,ANTM,ADRO.JK,BUMI.JK"
     )
 
     filter_signal = st.selectbox(
