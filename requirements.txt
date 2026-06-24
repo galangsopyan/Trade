@@ -1,7 +1,8 @@
 streamlit
-yfinance
 pandas
 numpy
+yfinance
 pandas-ta
 plotly
 requests
+openpyxl
