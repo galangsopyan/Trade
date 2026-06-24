@@ -535,7 +535,7 @@ elif menu == "Risk Management & Journal":
     st.dataframe(
         journal,
         use_container_width=True
-                )    notes TEXT
+                )
 
 conn.commit()
 
