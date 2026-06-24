@@ -537,8 +537,6 @@ elif menu == "Risk Management & Journal":
         use_container_width=True
                 )    notes TEXT
 
-""")
-
 conn.commit()
 
 # ==========================================
